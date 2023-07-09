@@ -1,0 +1,7 @@
+非最新
+AirportBrcmFixup.kext
+BrcmBluetoothInjector.kext
+BrcmFirmwareData.kext
+BrcmPatchRAM3.kext
+LucyRTL8125Ethernet.kext
+USBPorts.kext
