@@ -4,10 +4,6 @@ Drives 全部最新，可能有冗余或缺失 https://github.com/jianyun8023/MS
 
 
 Kexts全部最新除以下
-AirportBrcmFixup.kext
-BrcmBluetoothInjector.kext
-BrcmFirmwareData.kext
-BrcmPatchRAM3.kext
 USBPorts.kext
 
 缺少
