@@ -1,7 +1,20 @@
-非最新
+ACPI
+
+Drives 全部最新，可能有冗余或缺失 https://github.com/jianyun8023/MSI-MAG-B560M-i5-11500/tree/main/EFI/OC/Drivers 中的ExFatDxe
+
+
+Kexts全部最新除以下
 AirportBrcmFixup.kext
 BrcmBluetoothInjector.kext
 BrcmFirmwareData.kext
 BrcmPatchRAM3.kext
-LucyRTL8125Ethernet.kext
 USBPorts.kext
+
+缺少
+https://github.com/jianyun8023/MSI-MAG-B560M-i5-11500/tree/main/EFI/OC/Kexts 中的USBWakeFixup.kext
+
+Tools未处理
+
+
+
+debug版本换release版本？
