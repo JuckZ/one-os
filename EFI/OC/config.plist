@@ -1612,7 +1612,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02027301CDLNV9A8</string>
+                <string>C02031404QXPHC11F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1624,11 +1624,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>iMac19,1</string>
+                <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02D10WGJV3Q</string>
+                <string>C02D50G6PN5T</string>
                 <key>SystemUUID</key>
-                <string>EBE0C334-DECF-443F-8D1B-7F99D1EF9E5F</string>
+                <string>65C0CCDD-A6A0-4C52-81D8-95785D35C69E</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
