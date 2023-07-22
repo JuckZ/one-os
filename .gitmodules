@@ -1,0 +1,3 @@
+[submodule "EFI/rEFInd/themes/rEFInd-minimal"]
+	path = EFI/rEFInd/themes/rEFInd-minimal
+	url = git@github.com:evanpurkhiser/rEFInd-minimal.git
