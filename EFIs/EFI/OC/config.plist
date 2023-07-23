@@ -1051,6 +1051,8 @@
                 <false/>
                 <key>DisableIoMapper</key>
                 <true/>
+                <key>DisableIoMapperMapping</key>
+                <true/>
                 <key>DisableLinkeditJettison</key>
                 <true/>
                 <key>DisableRtcChecksum</key>
@@ -1846,6 +1848,12 @@
             </dict>
             <key>Output</key>
             <dict>
+                <key>ConsoleFont</key>
+                <string></string>
+                <key>GopBurstMode</key>
+                <true/>
+                <key>InitialMode</key>
+                <string>Auto</string>
                 <key>ClearScreenOnModeSwitch</key>
                 <false/>
                 <key>ConsoleMode</key>
@@ -1879,6 +1887,8 @@
             </dict>
             <key>ProtocolOverrides</key>
             <dict>
+                <key>PciIo</key>
+                <true/>
                 <key>AppleAudio</key>
                 <false/>
                 <key>AppleBootPolicy</key>
@@ -1918,6 +1928,8 @@
             </dict>
             <key>Quirks</key>
             <dict>
+                <key>ResizeUsePciRbIo</key>
+                <false/>
                 <key>ActivateHpetSupport</key>
                 <false/>
                 <key>DisableSecurityPolicy</key>
