@@ -12,8 +12,8 @@
 
 @REM 创建一个磁盘映像文件
 diskpart
-create vdisk file="D:\projects\one-os\asm_version\my-os.vhd" maximum=300 type=fixed
-select vdisk file="D:\projects\one-os\asm_version\my-os.vhd"
+create vdisk file="D:\projects\one-os\disk\all-in-one.vhd" maximum=300 type=fixed
+select vdisk file="D:\projects\one-os\disk\all-in-one.vhd"
 attach vdisk
 @REM assign letter=z
 exit
@@ -22,7 +22,6 @@ xcopy /E /I "D:\projects\one-os\CloverV2\EFI" "F:\EFI"
 xcopy /E /I "D:\projects\one-os\OpenCore-0.9.3-DEBUG\X64\EFI" "F:\EFI"
 
 diskpart
-select vdisk file="D:\projects\one-os\asm_version\my-os.vhd"
+select vdisk file="D:\projects\one-os\disk\all-in-one.vhd"
 detach vdisk
 exit
-
