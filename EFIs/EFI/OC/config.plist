@@ -1851,7 +1851,7 @@
                 <key>ConsoleFont</key>
                 <string></string>
                 <key>GopBurstMode</key>
-                <true/>
+                <false/>
                 <key>InitialMode</key>
                 <string>Auto</string>
                 <key>ClearScreenOnModeSwitch</key>
