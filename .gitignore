@@ -1,2 +1,3 @@
 *.vhd
 *.img
+tmp/
