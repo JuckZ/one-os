@@ -41,11 +41,3 @@ cd one-os
 git submodule init
 git submodule update
 ```
-
-## [Hackintosh](docs/Hackintosh.md)
-
-## FAQ
-
-Opencore引导其他操作系统  https://sumingyd.github.io/OpenCore-Install-Guide/AMD/zen.html#patch
-
-SecureBootModel 虚拟机需要使用x86legacy来获得安全引导支持
